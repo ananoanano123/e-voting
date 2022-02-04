@@ -1,0 +1,3 @@
+ GROUP NAME / SYMBOL   : team_2,   2 
+ GROUP LEADER        : sdf 
+  TOTAL VOTES         : 1 
